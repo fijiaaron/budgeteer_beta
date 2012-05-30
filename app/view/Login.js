@@ -24,7 +24,7 @@ Ext.define('login.view.Login', {
 					{
 						xtype: 'emailfield',
 						name: 'username',
-						label: 'Username:'
+						label: 'Email:'
 					},
 					{
 						xtype: 'passwordfield',
